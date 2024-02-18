@@ -18,5 +18,5 @@ function handleSubmit (event){
         input.value=""
     });
     
-    alert(`Thank you ${name} for Applying to out company. We'll get back to you as soon as possible.`);
+    alert(`Thank you ${name} for Applying to our company. We'll get back to you as soon as possible.`);
 }
